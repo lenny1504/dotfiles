@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lennartvonvelsen@gmail.com
+	name = Lennart von Velsen
